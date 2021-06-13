@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590607398857",
+    "project_id": "drone-rc-world",
+    "storage_bucket": "drone-rc-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590607398857:android:1d9ae0dd414d2bf9c1da18",
+        "android_client_info": {
+          "package_name": "com.blackshadowsoftware.dronercworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590607398857-kilooqkip4h23vquk591sqquel6hijun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ke1oeuQF6jj063R-pjyt5J6D7QhLDcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590607398857-kilooqkip4h23vquk591sqquel6hijun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
